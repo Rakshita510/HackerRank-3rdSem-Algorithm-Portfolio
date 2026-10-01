@@ -6,7 +6,8 @@
 - **Semester:** 3rd Semester
 - **Branch:** Computer Science and Engineering
 - **Language Used:** C++20
-
+- **HackerRank Profile:** https://www.hackerrank.com/profile/rakshitapatgar61
+  
 ## About This Portfolio
 
 This repository contains my HackerRank algorithm solutions completed as part of my 3rd Semester coding portfolio. The solutions demonstrate basic problem-solving, searching, sorting, greedy techniques, and algorithmic thinking.
